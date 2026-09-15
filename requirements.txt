@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langgraph
+tavily-python
+beautifulsoup4
+requests
+streamlit
+python-dotenv
+fpdf2
